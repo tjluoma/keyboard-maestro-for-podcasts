@@ -13,7 +13,7 @@ So I wrote two [Keyboard Maestro] macros: one for when Skype *starts* and one fo
 
 My first new Keyboard Maestro macro is called *(wait for it)* "Prepare For A Podcast". This is what it looks like in Keyboard Maestro:
 
-<p style="text-align:center"><img src="http://www.blogcdn.com//media/2013/03/km-skype-prepare-for-a-podcast.jpg" border="0" width="456" height="364" alt="" /></p>
+![](https://raw.github.com/tjluoma/keyboard-maestro-for-podcasts/master/km-skype-prepare-for-a-podcast.jpg)
 
 **Translation:** In case you don't "speak" Keyboard Maestro's language, this is what the above means:
 
@@ -39,8 +39,7 @@ Whenever Skype launches, Keyboard Maestro will automatically do the following:
 
 What happens *after* a podcast is pretty much exactly the opposite:
 
-<p style="text-align:center"><img src="http://www.blogcdn.com//media/2013/03/km-skype-resume-after-a-podcast-1363036689.jpg" border="0" width="456" height="343" alt="" /></p>
-
+![](https://raw.github.com/tjluoma/keyboard-maestro-for-podcasts/master/km-skype-resume-after-a-podcast.jpg)
 
 **Translation:** This macro will be triggered *automatically* whenever Skype quits, and this is what it will do:
 
@@ -67,9 +66,9 @@ To download my Keyboard Maestro macros, right (control) click on the links below
 * [prepare-for-a-podcast.kmmacros]
 * [resume-after-a-podcast.kmmacros]
 
-[resume-after-a-podcast.kmmacros]: http://files.tjluoma.com/km-podcast/resume-after-a-podcast.kmmacros
+[resume-after-a-podcast.kmmacros]: https://raw.github.com/tjluoma/keyboard-maestro-for-podcasts/master/resume-after-a-podcast.kmmacros
 
-[prepare-for-a-podcast.kmmacros]: http://files.tjluoma.com/km-podcast/prepare-for-a-podcast.kmmacros
+[prepare-for-a-podcast.kmmacros]: https://raw.github.com/tjluoma/keyboard-maestro-for-podcasts/master/prepare-for-a-podcast.kmmacros
 
 [Macdrifter]: http://macdrifter.com
 
